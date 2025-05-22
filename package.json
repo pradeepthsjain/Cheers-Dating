@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "emoji-picker-react": "^4.12.2"
+  }
+}
